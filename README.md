@@ -1,4 +1,4 @@
-Mokpo National University
-Computer Engineering
-Programming 2
+국립목포대학교
+컴퓨터공학과
+컴퓨터 프로그래밍2
 
